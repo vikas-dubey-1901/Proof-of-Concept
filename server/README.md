@@ -1,7 +1,4 @@
 # nodejs-twitter-login
-http://programmerblog.net/
-
-Source code for article : http://programmerblog.net/nodejs-twitter-login/
 
 
 How to run this application
@@ -20,5 +17,3 @@ How to run this application
 
 6. Perform login using twitter authentication
 
-
-You can read detailed tutorial on this link:  http://programmerblog.net/nodejs-twitter-login/
